@@ -1,0 +1,22 @@
+{
+  "name": "js_demo",
+  "version": "1.0.0",
+  "description": "my grunt demo",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millteacher/javascriptDemo.git"
+  },
+  "author": "mill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millteacher/javascriptDemo/issues"
+  },
+  "homepage": "https://github.com/millteacher/javascriptDemo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
